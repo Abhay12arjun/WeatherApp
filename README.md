@@ -1,2 +1,0 @@
-# WeatherApp
-HTML,CSS,JS
